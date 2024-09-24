@@ -1,2 +1,2 @@
 # Uneeq-Task2
-This task involves building a movie recommendation system using user-based collaborative filtering to make product recommendations based on user similarity.
+In this task, a recommendation system is implemented using user-based collaborative filtering. The algorithm suggests products by identifying similar users with similar product preferences, leveraging historical user data to predict recommendations. This collaborative filtering model improves product suggestions based on shared interests.
